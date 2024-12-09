@@ -1,0 +1,11 @@
+year,km_driven,mileage,engine,max_power,fuel,seller_type,transmission,owner,seats,predicted_price
+2007,60000,17.7,1497,78.0,Petrol,Individual,Manual,Third Owner,5,99360.31661224505
+2018,26300,23.8,1199,84.0,Petrol,Individual,Manual,First Owner,5,629872.3134755974
+2017,37000,19.7,1582,126.2,Diesel,Individual,Manual,First Owner,5,1028848.947918905
+2011,82500,16.5,1991,123.7,Diesel,Individual,Manual,Second Owner,5,718349.734582505
+2015,40000,23.6,1364,67.04,Diesel,Individual,Manual,First Owner,5,428868.6468630892
+2013,100000,25.8,1498,98.6,Diesel,Individual,Manual,First Owner,5,639269.4985950493
+2003,120000,17.3,993,60.0,Petrol,Individual,Manual,Third Owner,5,-280460.8241999827
+2019,25000,28.4,1248,74.02,Diesel,Individual,Manual,First Owner,5,671979.312464871
+2012,50000,16.0,2523,62.1,Diesel,Individual,Manual,First Owner,7,305627.3724723618
+2017,20000,23.1,998,67.04,Petrol,Individual,Manual,Second Owner,5,368704.5083776226
