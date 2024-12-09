@@ -22,3 +22,5 @@ R^2 и MSE для лучшей модели на тестовой выборке
 не обработал столбец name...
 
 Screencast https://youtube.com/shorts/eDXwYHoBOqY
+
+п.с. не знаю чей кот. пусть будет Ваш =)
